@@ -5,7 +5,7 @@ description: >
   Yolov8 train 중 보였던 syntax error 해결한 내용입니다.
 tags: [Project, Vision, Troubleshooting]
 author: author1
-# canonical_url: http://hyde.getpoole.com/2012/02/06/whats-jekyll/
+canonical_url: https://halloweengemini.github.io/2024/03/28/Yolov8-train-중-보이는-SyntaxError_-fl_gamma-is-not-a-valid-YOLO-argument/
 ---
 
 Wrist X-ray에서 골절을 검출하는 Research 중 Ultralytics에서 배포한 YOLOv8로 open dataset에서 학습 재현을 하려던 중 아래와 같은 오류에 부딪혔다. 
