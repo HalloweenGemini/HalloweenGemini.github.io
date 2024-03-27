@@ -26,12 +26,11 @@ title:                 Jaemin's Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >  
-
-  의료기기나, 의료 인공지능에 대한 연구와 공부를 기록하는 블로그입니다.
+description:           
+  의료기기, 의료 인공지능에 대한 연구와 공부를 기록하는 블로그입니다.
 
 # A shorter description for the sidebar.
-tagline:               의료기기와 인공지능
+tagline:               의료기기, 의료 인공지능에 대한 연구와 공부를 기록하는 블로그입니다.
   # A Jekyll theme with JavaScript powers.
   # Open `_config.yml` to edit this text.
 
@@ -72,7 +71,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/jaemin1.jpg
 accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
