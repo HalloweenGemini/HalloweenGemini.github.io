@@ -6,6 +6,7 @@ description: >
   Yolov8 train 중 보였던 syntax error 해결한 내용입니다.
 tags: [Project]
 author: author1
+categories: [Project]
 canonical_url: https://halloweengemini.github.io/2024/03/28/Yolov8-train-중-보이는-SyntaxError_-fl_gamma-is-not-a-valid-YOLO-argument/
 ---
 
