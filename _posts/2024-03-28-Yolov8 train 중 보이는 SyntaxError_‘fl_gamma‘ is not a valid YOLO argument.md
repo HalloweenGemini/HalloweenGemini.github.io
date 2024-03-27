@@ -3,7 +3,7 @@ layout: post
 title: Yolov8 train 중 보이는 SyntaxError - ‘fl_gamma‘ is not a valid YOLO argument.
 description: >
   Yolov8 train 중 보였던 syntax error 해결한 내용입니다.
-tags: [Vision, Troubleshooting]
+tags: [Project, Vision, Troubleshooting]
 author: author2
 canonical_url: http://hyde.getpoole.com/2012/02/06/whats-jekyll/
 ---
