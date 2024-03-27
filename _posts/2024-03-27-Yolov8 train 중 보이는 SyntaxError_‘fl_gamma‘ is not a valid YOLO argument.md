@@ -1,4 +1,5 @@
 ---
+published: true
 layout: post
 title: Yolov8 train 중 보이는 SyntaxError - ‘fl_gamma‘ is not a valid YOLO argument.
 description: >
