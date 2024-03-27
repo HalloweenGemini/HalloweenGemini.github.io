@@ -3,7 +3,7 @@ layout: post
 title: Yolov8 train 중 보이는 SyntaxError - ‘fl_gamma‘ is not a valid YOLO argument.
 description: >
   Yolov8 train 중 보였던 syntax error 해결한 내용입니다.
-tags: [Project, Vision, Troubleshooting]
+tags: [Project]
 author: author1
 canonical_url: https://halloweengemini.github.io/2024/03/28/Yolov8-train-중-보이는-SyntaxError_-fl_gamma-is-not-a-valid-YOLO-argument/
 ---
