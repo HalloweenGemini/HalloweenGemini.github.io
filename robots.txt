@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://halloweengemini.github.io/sitemap.xml
